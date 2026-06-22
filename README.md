@@ -50,6 +50,18 @@ graph TD
 
 ---
 
+## 📸 Screenshots
+
+Here is a preview of the Study Tutor Agent in action:
+
+| 1. Topic Explanation | 2. Quiz Generation |
+| :---: | :---: |
+| ![Topic Explanation](demo1.png) | ![Quiz Generation](demo2.png) |
+| **3. Taking the Quiz** | **4. Progress Saved** |
+| ![Taking the Quiz](demo3.png) | ![Progress Saved](demo4.png) |
+
+---
+
 ## ⚙️ Setup Instructions
 
 ### Prerequisites
